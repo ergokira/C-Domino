@@ -1,4 +1,4 @@
 
 ## Description
 
-This is a C++ Domino game proyect. (Player vs Computer)
+This is a C++ Domino game project. (Player vs Computer)
